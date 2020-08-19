@@ -2,7 +2,7 @@
 
 def game_hash 
   game_hash = {
-    :away => {},
-    :home => {}
+    :home => {},
+    :away => {}
 }
 end
